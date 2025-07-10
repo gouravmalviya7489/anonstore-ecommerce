@@ -1,44 +1,73 @@
-# Anon - An eCommerce Website
+# 🛍️ AnonStore – Ecommerce Shopping Website
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/anon-ecommerce-website)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/anon-ecommerce-website?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/anon-ecommerce-website?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/3l8Lob4ysI0?style=social)](https://youtu.be/3l8Lob4ysI0)
+**AnonStore** is a modern, responsive ecommerce frontend built using **HTML, CSS, and JavaScript**.  
+This is a personal project designed to showcase clean UI, product layouts, and mobile-friendly design.
 
-Anon is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
+---
 
-## Demo
+## 🌐 Live Site
 
-![Anon Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![Anon Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+👉 [View Project on GitHub Pages](https://gouravmalviya7489.github.io/anonstore-ecommerce/)  
+_(Note: If you see a browser warning, it’s safe — report false flag to Google Safe Browsing.)_
 
-## Prerequisites
+---
 
-Before you begin, ensure you have met the following requirements:
+## 📸 Screenshots
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+### 💻 Desktop View
+![Desktop](website-demo-image/desktop.png)
 
-## Installing Anon
+### 📱 Mobile View
+![Mobile](website-demo-image/mobile.png)
 
-To install **Anon**, follow these steps:
+---
 
-Linux and macOS:
+## 📁 Folder Structure
 
-```bash
-sudo git clone https://github.com/codewithsadee/anon-ecommerce-website.git
-```
+anonstore-ecommerce/
+├── index.html
+├── assets/
+│ ├── css/
+│ ├── js/
+│ └── images/
+├── website-demo-image/
+│ ├── desktop.png
+│ └── mobile.png
+├── README.md
 
-Windows:
 
-```bash
-git clone https://github.com/codewithsadee/anon-ecommerce-website.git
-```
+---
 
-## Contact
+## ✨ Features
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+- ✅ Fully responsive layout
+- ✅ Product cards with images & CTA
+- ✅ Organized file structure
+- ✅ Fast and clean UI
 
-## License
+---
 
-This project is **free to use** and does not contains any license.
+## ⚙️ Tech Stack
+
+- HTML5
+- CSS3 (Flexbox + Grid)
+- JavaScript (Vanilla)
+
+---
+
+## 🚀 Deployment
+
+Deployed via **GitHub Pages**  
+_You can fork or clone this project and run it locally — no setup needed._
+
+---
+
+## 📬 Contact
+
+**Made by Gourav Malviya**  
+Connect with me on [LinkedIn](https://www.linkedin.com/in/gouravmalviya7489)
+
+---
+
+> ⭐ Don’t forget to star this repo if you liked it!
+
